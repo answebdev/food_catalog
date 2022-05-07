@@ -9,8 +9,6 @@ function urlFor(source) {
   return builder.image(source);
 }
 
-// import foodImage from "../images/protein/001.jpg";
-
 const Foods = () => {
   const [foods, setFoods] = useState(null);
 
