@@ -3,6 +3,7 @@ import './App.css';
 
 // Article: https://dev.to/sanity-io/how-to-create-a-single-page-application-with-react-and-sanity-2ggl
 // https://github.com/olawanlejoel/spa-react-sanity
+// This project is a "clean project with no predefined schemas" (schemas created from scratch)
 
 function App() {
   return (
