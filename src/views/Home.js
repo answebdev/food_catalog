@@ -7,7 +7,7 @@ const Home = () => {
     <section className='container w-full lg:px-0 px-5 lg:w-3/4 mx-auto'>
       <div className='flex lg:flex-row flex-col my-10 justify-between'>
         <div className=''>
-          <h2 className='text-3xl lg:text-4xl font-bold'>Hello👋</h2>
+          <h2 className='text-3xl lg:text-4xl font-bold'>Hello 👋</h2>
           <p className='text-xl lg:text-2xl'>What do you want?</p>
         </div>
         <div className='flex items-center lg:mt-0 mt-5 gap-3 lg:flex-row flex-col'>

@@ -53,7 +53,7 @@ const Foods = () => {
       <hr className='my-10' />
       <div className='my-5'>
         <h3 className='text-3xl font-bold text-center my-10 lg:my-5'>
-          All Foods🥗
+          All Foods 🥗
         </h3>
         <div className='grid grid-cols-1 lg:grid-cols-3 gap-8'>
           {foods &&

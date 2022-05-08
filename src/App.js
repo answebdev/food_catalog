@@ -26,10 +26,9 @@ const App = () => {
       </div>
       <Routes>
         <Route exact path='/' element={<Home />} />
-        <Route exact path='/about' element={<About />} />
-        <Route exact path='/foods' element={<Foods />} />
-        <Route exact path='/FilteredFoods/:slug' element={<FilteredFoods />} />
-        {/* <Route path='*' element={<Error />} /> */}
+        <Route path='/about' element={<About />} />
+        <Route path='/foods' element={<Foods />} />
+        <Route path='/FilteredFoods/:slug' element={<FilteredFoods />} />
       </Routes>
       <div className='max-w-full'>
         <Footer />

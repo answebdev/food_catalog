@@ -7,7 +7,7 @@ const About = () => {
     <section className='container w-full lg:px-0 px-5 lg:w-3/4 mx-auto min-h-screen'>
       <div className='mt-16'>
         <h3 className='text-3xl font-bold text-center my-10 lg:my-5'>
-          About Us🦻
+          About Us 🦻
         </h3>
         <div className='flex gap-10 justify-center items-center flex-col lg:flex-row mt-10'>
           <div className=''>
